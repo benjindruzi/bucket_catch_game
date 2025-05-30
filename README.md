@@ -39,7 +39,7 @@ flutter run
 - From the main menu, you can:
   - Tap **Play** to start the game.
   - Tap **Exit** to close the app (or return).
-- After losing all lives, the **Game Over Screen** appears:
+- After losing all lives, the **Game Over** appears:
   - Tap **Play Again** to restart the game.
   - Tap **Main Menu** to return to the home screen.
 
