@@ -1,6 +1,6 @@
 # Bucket Catch Game
 
-COMP5450 – Mobile Programming
+COMP-5450 Mobile Programming
 
 A simple 2D Flutter game where the player controls a bucket to catch falling balls and accumulate score.
 
